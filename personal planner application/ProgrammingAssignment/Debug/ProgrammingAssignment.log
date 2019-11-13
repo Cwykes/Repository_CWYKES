@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  get_file_name.cpp
+  ProgrammingAssignment.cpp
+C:\Callum\NTU\Year 2\Programming\c++ misc\personal planner application\ProgrammingAssignment\ProgrammingAssignment.cpp(231,20): warning C4018: '<': signed/unsigned mismatch
+C:\Callum\NTU\Year 2\Programming\c++ misc\personal planner application\ProgrammingAssignment\ProgrammingAssignment.cpp(272,20): warning C4018: '<': signed/unsigned mismatch
+C:\Callum\NTU\Year 2\Programming\c++ misc\personal planner application\ProgrammingAssignment\ProgrammingAssignment.cpp(301,20): warning C4018: '<': signed/unsigned mismatch
+C:\Callum\NTU\Year 2\Programming\c++ misc\personal planner application\ProgrammingAssignment\ProgrammingAssignment.cpp(323,22): warning C4018: '<': signed/unsigned mismatch
+  Testing.cpp
+  Generating Code...
+C:\Callum\NTU\Year 2\Programming\c++ misc\personal planner application\ProgrammingAssignment\ProgrammingAssignment.cpp(369,20): warning C4018: '<': signed/unsigned mismatch
+  ProgrammingAssignment.vcxproj -> C:\Callum\NTU\Year 2\Programming\c++ misc\personal planner application\Debug\ProgrammingAssignment.exe
